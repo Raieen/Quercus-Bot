@@ -1,1 +1,3 @@
 # Quercus-Bot
+
+Discord + Quercus
